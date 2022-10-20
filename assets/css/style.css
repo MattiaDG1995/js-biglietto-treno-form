@@ -5,9 +5,63 @@
 }
 
 .container{
-    width: 40%;
+    width: 60%;
+    height: 600px;
     margin: auto;
-    background-color: pink;
-    border-radius: 20px;
+    background-color: #B91450;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+}
+
+.cont1{
+    width: 70%;
+    margin: auto;
+    background-color: white;
+    color: #B91450;
+    border-radius: 10px;
+}
+
+.box{
+    width: 70%;
+     margin: auto;
+     background-color: white;
+     border-radius: 10px;
+     color: black;
+ }
+
+ .contenitore{
+    border: 1px solid black;
+    border-right: none;
+ }
+
+
+label{
+    display: block;
+    margin-bottom: 15px;
+}
+
+button{
+    color: #B91450;
+    background-color:lightgray;
+    border-radius: 2px;
+}
+
+.passegg{
+    background-color: gray;
+}
+
+input{
+    border-color: #B91450;
+    border-radius: 5px;
+}
+
+select{
+    border-color: #B91450;
+    border-radius: 5px;
+}
+
+h5{
+    margin-bottom: 15px;
 }
 
