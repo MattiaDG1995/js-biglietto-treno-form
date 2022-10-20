@@ -38,5 +38,6 @@ function start(){
     let codecp = document.getElementById('codecp').value;
     document.getElementById('codecp').innerHTML = Math.floor(Math.random() * 100000) + 1;
 
-
+    document.getElementById('box').classList.remove('d-none') ;
+    document.getElementById('ticket').classList.remove('d-none') ;
     }
